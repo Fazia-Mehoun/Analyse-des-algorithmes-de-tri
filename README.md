@@ -13,4 +13,5 @@ des résultats et interprétation à l’aide de graphiques.
 
 Technologies utilisées : Python, NumPy, Pandas, Matplotlib  
 Méthode de gestion du projet : Scrum
+
 Compétences acquises :Esprit d’analyse et de synthèse,Organisation et gestion du temps
